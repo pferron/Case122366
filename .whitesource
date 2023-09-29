@@ -30,7 +30,7 @@
     "prConcurrentLimit":10,
     "prHeader":"Test",
     "prFooter":"Test Footer",
-    "schedule":"every 30min"
+    "schedule":"every 30min",
     "workflowRules": {
       "enabled": true
     }

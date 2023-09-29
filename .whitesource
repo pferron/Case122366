@@ -27,6 +27,7 @@
   },
   "remediateSettings": {
     "enableRenovate": true,
+    "schedule":"every 30min",
     "workflowRules": {
       "enabled": true
     }

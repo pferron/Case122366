@@ -13,7 +13,7 @@ priority = "explicit"
 
 [tool.poetry.dependencies]
 python = "~3.10"
-Django = "~4.2"
+Django = "~5.0.0"
 djangorestframework = "^3.14.0"
 drf-spectacular = "^0.26.1"
 netaddr = "^0.8.0"
